@@ -1,0 +1,6 @@
+c:\users\hengli\documents\visual studio 2013\Projects\Hello tomorrow2\Hello tomorrow2\bin\Debug\Hello tomorrow2.exe.config
+c:\users\hengli\documents\visual studio 2013\Projects\Hello tomorrow2\Hello tomorrow2\bin\Debug\Hello tomorrow2.exe
+c:\users\hengli\documents\visual studio 2013\Projects\Hello tomorrow2\Hello tomorrow2\bin\Debug\Hello tomorrow2.pdb
+c:\users\hengli\documents\visual studio 2013\Projects\Hello tomorrow2\Hello tomorrow2\obj\Debug\Hello tomorrow2.csprojResolveAssemblyReference.cache
+c:\users\hengli\documents\visual studio 2013\Projects\Hello tomorrow2\Hello tomorrow2\obj\Debug\Hello tomorrow2.exe
+c:\users\hengli\documents\visual studio 2013\Projects\Hello tomorrow2\Hello tomorrow2\obj\Debug\Hello tomorrow2.pdb

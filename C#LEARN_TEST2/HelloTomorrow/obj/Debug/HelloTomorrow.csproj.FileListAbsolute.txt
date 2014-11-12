@@ -1,0 +1,6 @@
+c:\users\hengli\documents\visual studio 2013\Projects\HelloTomorrow\HelloTomorrow\bin\Debug\HelloTomorrow.exe.config
+c:\users\hengli\documents\visual studio 2013\Projects\HelloTomorrow\HelloTomorrow\obj\Debug\HelloTomorrow.csprojResolveAssemblyReference.cache
+c:\users\hengli\documents\visual studio 2013\Projects\HelloTomorrow\HelloTomorrow\bin\Debug\HelloTomorrow.exe
+c:\users\hengli\documents\visual studio 2013\Projects\HelloTomorrow\HelloTomorrow\bin\Debug\HelloTomorrow.pdb
+c:\users\hengli\documents\visual studio 2013\Projects\HelloTomorrow\HelloTomorrow\obj\Debug\HelloTomorrow.exe
+c:\users\hengli\documents\visual studio 2013\Projects\HelloTomorrow\HelloTomorrow\obj\Debug\HelloTomorrow.pdb
